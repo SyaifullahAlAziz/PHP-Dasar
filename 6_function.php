@@ -2,7 +2,7 @@
 
 function tampilkan_nama()
 {
-    echo "Nama Saya Syaifullah Al Aziz";
+    echo "Syaifullah Al Aziz";
 }
 
 tampilkan_nama();
